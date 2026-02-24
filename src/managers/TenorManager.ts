@@ -2,7 +2,7 @@ import { ContentFilter, TenorImage } from '../types/exposedTypes';
 
 const MEDIA_FILTER = 'gif,tinygif';
 // const BASE_URL = 'https://tenor.googleapis.com/v2/';
-const BASE_URL = 'https://api.klipy.com/v1/';
+const BASE_URL = 'https://api.klipy.com/v2/';
 
 export interface TenorCategory {
 	image: string;
