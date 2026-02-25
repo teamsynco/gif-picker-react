@@ -41,7 +41,7 @@ function Search(): JSX.Element {
 			</div>
 			<div className="gpr-powered-by">
 				<img
-					src="/components/icons/klipy-watermark.png"
+					src={PoweredByKlipy}
 					alt="Powered by Klipy"
 				/>
 			</div>
